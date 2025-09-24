@@ -1,0 +1,14 @@
+temp/
+
+*.py[cod]
+
+.qs_*
+
+yalp_workspace.code-workspace
+
+.vscode/
+
+_*
+
+# QS
+.qs/
